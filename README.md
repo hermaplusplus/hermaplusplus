@@ -1,4 +1,17 @@
-### Hi there 👋
+### About Me
+
+**Interests:** CompSci, Games
+
+**Languages:** English, Polish, C# (.NET), Python, Java
+
+**Currently Working On:**
+* [Vergil 🤺](https://github.com/hermaplusplus/vergil), a Discord bot to make Devil May Cry references.
+* [Stella Nova ⭐](https://github.com/hermaplusplus/StellaNova), a [Space Station 13 🧰](https://spacestation13.com/) game server.
+* Finding a project for the summer...
+
+**Discord:** @herma#0001
+
+**Looking For:** [Blåhaj 🦈](https://www.ikea.com/gb/en/p/blahaj-soft-toy-shark-30373588/) 
 
 <!--
 **hermaplusplus/hermaplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
