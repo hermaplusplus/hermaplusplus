@@ -1,3 +1,7 @@
+![designed-in-poland](https://user-images.githubusercontent.com/49307226/170814225-3a343242-f4d8-4a99-85a5-50fe37231f53.svg)
+![certified-by-bob](https://user-images.githubusercontent.com/49307226/170814149-533bf12a-6656-484a-bcd6-f99c29f972dc.svg)
+![powered-by-monster-energy](https://user-images.githubusercontent.com/49307226/170814156-8b932ac1-65ff-48c9-b52e-404977b3ce4f.svg)
+
 ### About Me
 
 **Interests:** CompSci, Games
