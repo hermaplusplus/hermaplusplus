@@ -15,7 +15,9 @@
 
 **Discord:** @herma#0001
 
-**Looking For:** [Blåhaj 🦈](https://www.ikea.com/gb/en/p/blahaj-soft-toy-shark-30373588/) 
+**Promoting:** [Blåhaj 🦈](https://www.ikea.com/gb/en/p/blahaj-soft-toy-shark-30373588/) 
+
+Want a managed wiki (running MediaWiki)? Message me on Discord :)
 
 <!--
 **hermaplusplus/hermaplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
