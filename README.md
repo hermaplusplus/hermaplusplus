@@ -24,8 +24,6 @@ Want a managed wiki (running MediaWiki)? Message me on Discord :)
 
 <!-- [![@herma's Holopin board](https://holopin.io/api/user/board?user=herma)](https://holopin.io/@herma) -->
 
-[![@hermaplusplus's Holopin board](https://holopin.me/hermaplusplus)](https://holopin.io/@hermaplusplus)
-
 <!--
 **hermaplusplus/hermaplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
