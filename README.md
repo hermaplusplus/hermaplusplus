@@ -16,7 +16,7 @@
 * [BungaStone🧔](https://github.com/StoneAndStar/BungaStone), a Fallout 13 rebase.
 * Finding a project to cure my boredom...-->
 
-**Discord:** @herma#0001
+**Discord:** @herma
 
 <!-- **Promoting:** [Blåhaj 🦈](https://www.ikea.com/gb/en/p/blahaj-soft-toy-shark-30373588/) -->
 
