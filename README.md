@@ -9,6 +9,7 @@
 **Languages:** English, Polish, C# (.NET), Python, Java
 
 **Currently Working On:**
+* Refactoring [Vericat](https://github.com/hermaplusplus/Vericat)
 * Learning Sveltekit.
 <!--* [Vergil 🤺](https://github.com/hermaplusplus/vergil), a Discord bot to make Devil May Cry references.
 * [Stella Nova ⭐](https://github.com/hermaplusplus/StellaNova), a [Space Station 13 🧰](https://spacestation13.com/) game server.
