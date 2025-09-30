@@ -6,7 +6,7 @@
 
 **Interests:** CompSci, Games
 
-**Languages:** English, Polish, C# (.NET), Python, Java
+**Languages:** English, Polish, Python, C# (.NET), Java
 
 **Currently Working On:**
 <!--* Refactoring [Vericat](https://github.com/hermaplusplus/Vericat)
