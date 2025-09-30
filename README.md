@@ -16,6 +16,7 @@
 * [RockStar 🎸](https://github.com/StoneAndStar/RockStar), a Fallout 13 (based on Space Station 13) game server.
 * [BungaStone🧔](https://github.com/StoneAndStar/BungaStone), a Fallout 13 rebase.
 * Finding a project to cure my boredom...-->
+* No active projects :(
 
 **Discord:** @herma
 
